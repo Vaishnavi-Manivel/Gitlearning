@@ -1,8 +1,5 @@
-Hello, my name is Vaishnavi Manivel.
-I am from India.
-I am currently pursuing my degree in Computer Science.
-I have knowledge in Java, JDBC, and basic web technologies like HTML, CSS, and JavaScript.
-I am very interested in learning new technologies and improving my coding skills.
-I am a hardworking and self-motivated person.
-My goal is to build a successful career in the IT industry.
+Hi, I’m Vaishnavi.
+I’m a computer science student.
+I’m interested in Java and web development.
+I’m eager to learn new skills and grow in the IT field.
 Thank you.
